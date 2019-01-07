@@ -1,0 +1,5 @@
+odin:$6$Xb1zLYWB$jt2o.Vy2PHK/m7SLjE44ythZkwGOq4G2i71yNE4mH9/S5H3x6Sl5jefd.gYDdpVR6fLHFstjH5/tYM2tFRVrM/:17748:0:99999:7:::
+crackme:$1$bBkQXFjK$WFp9fYXRgI.xwyVCP7Y8M.:17902:0:99999:7:::
+msfadmin:$1$Tx/ljccg$7uQO2Bxhpf3YtiuRhdrAh.:17900:0:99999:7:::
+sys:$1$fUX6BPOt$Miyc3UpOzQJqz4s5wFD9l0:14742:0:99999:7:::
+root:$1$RnUAJwz0$88aQnOi0DoO2X3hHDCRBr/:17902:0:99999:7:::
